@@ -1,0 +1,210 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* BookTrackerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {976, 618}}";
+			sepNavSelRange = "{380, 0}";
+			sepNavVisRange = "{0, 381}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* BookTrackerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {976, 618}}";
+			sepNavSelRange = "{461, 0}";
+			sepNavVisRange = "{0, 468}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 6B63D78510DD37C700B8851E /* BookTracker */;
+		activeTarget = 8D1107260486CEB800E47090 /* BookTracker */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* BookTracker */,
+		);
+		codeSenseManager = 6B63D79010DD37D100B8851E /* Code sense */;
+		executables = (
+			6B63D78510DD37C700B8851E /* BookTracker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					798,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 282967401;
+			PBXWorkspaceStateSaveDate = 282967401;
+		};
+		perUserProjectItems = {
+			6B12171110DDBD82004FCBE8 /* PBXTextBookmark */ = 6B12171110DDBD82004FCBE8 /* PBXTextBookmark */;
+			6B5EDEE410DD6E0500BECD5A /* PBXTextBookmark */ = 6B5EDEE410DD6E0500BECD5A /* PBXTextBookmark */;
+			6B5EDEE510DD6E0500BECD5A /* PBXTextBookmark */ = 6B5EDEE510DD6E0500BECD5A /* PBXTextBookmark */;
+			6B61B7EA10DDB670003EF4FD /* PBXTextBookmark */ = 6B61B7EA10DDB670003EF4FD /* PBXTextBookmark */;
+			6B61B7EB10DDB670003EF4FD /* PBXTextBookmark */ = 6B61B7EB10DDB670003EF4FD /* PBXTextBookmark */;
+			6B61B7F510DDBD52003EF4FD /* PBXTextBookmark */ = 6B61B7F510DDBD52003EF4FD /* PBXTextBookmark */;
+			6B63D80810DD532A00B8851E /* PlistBookmark */ = 6B63D80810DD532A00B8851E /* PlistBookmark */;
+		};
+		sourceControlManager = 6B63D78F10DD37D100B8851E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6B12171110DDBD82004FCBE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B63D79F10DD3A8A00B8851E /* BookTrackerController.m */;
+		name = "BookTrackerController.m: 170";
+		rLen = 0;
+		rLoc = 5820;
+		rType = 0;
+		vrLen = 1849;
+		vrLoc = 4953;
+	};
+	6B5EDEE410DD6E0500BECD5A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* BookTrackerAppDelegate.m */;
+		name = "BookTrackerAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 461;
+		rType = 0;
+		vrLen = 468;
+		vrLoc = 0;
+	};
+	6B5EDEE510DD6E0500BECD5A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* BookTrackerAppDelegate.h */;
+		name = "BookTrackerAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 380;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	6B61B7EA10DDB670003EF4FD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B63D8DB10DD647900B8851E /* ToDo.rtf */;
+		name = "ToDo.rtf: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1;
+		vrLoc = 0;
+	};
+	6B61B7EB10DDB670003EF4FD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B63D79E10DD3A8A00B8851E /* BookTrackerController.h */;
+		name = "BookTrackerController.h: 54";
+		rLen = 30;
+		rLoc = 1266;
+		rType = 0;
+		vrLen = 1237;
+		vrLoc = 361;
+	};
+	6B61B7F510DDBD52003EF4FD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B63D79F10DD3A8A00B8851E /* BookTrackerController.m */;
+		name = "BookTrackerController.m: 170";
+		rLen = 0;
+		rLoc = 5820;
+		rType = 0;
+		vrLen = 1849;
+		vrLoc = 4953;
+	};
+	6B63D78510DD37C700B8851E /* BookTracker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BookTracker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6B63D78F10DD37D100B8851E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6B63D79010DD37D100B8851E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6B63D79E10DD3A8A00B8851E /* BookTrackerController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {976, 832}}";
+			sepNavSelRange = "{1266, 30}";
+			sepNavVisRange = "{361, 1237}";
+		};
+	};
+	6B63D79F10DD3A8A00B8851E /* BookTrackerController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 4745}}";
+			sepNavSelRange = "{5820, 0}";
+			sepNavVisRange = "{4953, 1849}";
+		};
+	};
+	6B63D80810DD532A00B8851E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BookTracker-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/jdoud/dev/cocoa/BookTracker/BookTracker-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	6B63D8DB10DD647900B8851E /* ToDo.rtf */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 610}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {996, 610}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* BookTracker */ = {
+		activeExec = 0;
+		executables = (
+			6B63D78510DD37C700B8851E /* BookTracker */,
+		);
+	};
+}

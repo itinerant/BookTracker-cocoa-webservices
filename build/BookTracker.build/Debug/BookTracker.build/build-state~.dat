@@ -1,0 +1,286 @@
+TBookTracker
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Info.plist BookTracker-Info.plist
+cCopyStringsFile /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib
+cCpResource BookTracker.icns build/Debug/BookTracker.app/Contents/Resources/BookTracker.icns
+cCpResource ToDo.rtf build/Debug/BookTracker.app/Contents/Resources/ToDo.rtf
+cProcessPCH /var/folders/nf/xlwp360s3ddff5vf5jhxnbxm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BookTracker_Prefix-bvyfwokxhogtzndafznbpqfeuzle/BookTracker_Prefix.pch.pth BookTracker_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/main.o /Users/jdoud/dev/BookTracker/BookTracker-cocoa/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerAppDelegate.o /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerController.o /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/MacOS/BookTracker normal x86_64
+cTouch /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E95C1AA00000000000000EE
+t1318437290
+s238
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E3C567D0000000000006560
+t1312577149
+s25952
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTracker.icns
+c000000004E7A3E13000000000004D664
+t1316634131
+s317028
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerAppDelegate.m
+c000000004E7A3E1300000000000001D4
+t1316634131
+s468
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m
+c000000004E7A3E880000000000003079
+t1316634248
+s12409
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTracker_Prefix.pch
+c000000004E7A3E130000000000000099
+t1316634131
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/InfoPlist.strings
+c000000004E7A3E13000000000000002D
+t1316634131
+s45
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib
+c000000004EC1DBF70000000000041C51
+t1321327607
+s269393
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/ToDo.rtf
+c000000004E7A3E130000000000000104
+t1316634131
+s260
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTracker.LinkFileList
+c000000004ECB16D70000000000000197
+t1321932503
+s407
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerAppDelegate.o
+t2
+s0
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerController.o
+t2
+s0
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app
+t2
+s0
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/MacOS/BookTracker
+t2
+s0
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources/BookTracker.icns
+t2
+s0
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources/ToDo.rtf
+t2
+s0
+
+N/Users/jdoud/dev/BookTracker/BookTracker-cocoa/main.m
+c000000004E7A3E1300000000000000FE
+t1316634131
+s254
+
+N/var/folders/nf/xlwp360s3ddff5vf5jhxnbxm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BookTracker_Prefix-bvyfwokxhogtzndafznbpqfeuzle/BookTracker_Prefix.pch.pth
+t2
+s0
+
+NBookTracker-Info.plist
+c000000004E7A3E1300000000000003CA
+t1316634131
+s970
+
+CBuild AST from /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerAppDelegate.m
+r0
+
+CBuild AST from /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m
+r0
+
+CBuild AST from /Users/jdoud/dev/BookTracker/BookTracker-cocoa/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdc82ad574e7bb441^6e87b2574e7bb441^---0#1#0#--18"Check dependencies36"22591A18-D70E-4753-9F3B-0236D4A2D528-
+
+CCompileC build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerAppDelegate.o /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s343625310.832602
+e343625310.929668
+r1
+xCompileC
+xbuild/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerAppDelegate.o
+x/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerAppDelegate.mda39d55e4e7bb441^280cee5e4e7bb441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerAppDelegate.m0000000000000000^2376"CompileC build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerAppDelegate.o BookTrackerAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jdoud/dev/BookTracker/BookTracker-cocoa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-generated-files.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-own-target-headers.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-all-target-headers.hmap -iquote /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-project-headers.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/include -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/DerivedSources/x86_64 -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/DerivedSources -F/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug -include /var/folders/nf/xlwp360s3ddff5vf5jhxnbxm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BookTracker_Prefix-bvyfwokxhogtzndafznbpqfeuzle/BookTracker_Prefix.pch -MMD -MT dependencies -MF /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerAppDelegate.d -c /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerAppDelegate.m -o /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerAppDelegate.o36"4F0D5C59-6E77-4AB2-8755-DFD3E047E973-
+
+CCompileC build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerController.o /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s343625310.880259
+e343625311.034689
+r1
+xCompileC
+xbuild/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerController.o
+x/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:81:28:{81:28-81:33}: warning: expression result unused [-Wunused-value,12]
+o                 [searchReader setString:(@"%@", [readerFilter titleOfSelectedItem])];
+o                                          ^~~~~
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:91:28:{91:28-91:33}: warning: expression result unused [-Wunused-value,12]
+o                 [searchAuthor setString:(@"%@", [authorFilter titleOfSelectedItem])];
+o                                          ^~~~~
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:96:27:{96:27-96:32}: warning: expression result unused [-Wunused-value,12]
+o                 [searchGenre setString:(@"%@", [genreFilter titleOfSelectedItem])];
+o                                         ^~~~~
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:101:30:{101:30-101:35}: warning: expression result unused [-Wunused-value,12]
+o                 [searchCategory setString:(@"%@", [categoryFilter titleOfSelectedItem])];
+o                                            ^~~~~
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:106:27:{106:27-106:32}: warning: expression result unused [-Wunused-value,12]
+o                 [searchMonth setString:(@"%@", [monthFilter titleOfSelectedItem])];
+o                                         ^~~~~
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:111:26:{111:26-111:31}: warning: expression result unused [-Wunused-value,12]
+o                 [searchYear setString:(@"%@", [yearFilter titleOfSelectedItem])];
+o                                        ^~~~~
+o6 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m9b72e15e4e7bb441^070a285f4e7bb441^-1711"/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:81:28:{81:28-81:33}: warning: expression result unused [-Wunused-value,12]                 [searchReader setString:(@"%@", [readerFilter titleOfSelectedItem])];                                          ^~~~~/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:91:28:{91:28-91:33}: warning: expression result unused [-Wunused-value,12]                 [searchAuthor setString:(@"%@", [authorFilter titleOfSelectedItem])];                                          ^~~~~/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:96:27:{96:27-96:32}: warning: expression result unused [-Wunused-value,12]                 [searchGenre setString:(@"%@", [genreFilter titleOfSelectedItem])];                                         ^~~~~/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:101:30:{101:30-101:35}: warning: expression result unused [-Wunused-value,12]                 [searchCategory setString:(@"%@", [categoryFilter titleOfSelectedItem])];                                            ^~~~~/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:106:27:{106:27-106:32}: warning: expression result unused [-Wunused-value,12]                 [searchMonth setString:(@"%@", [monthFilter titleOfSelectedItem])];                                         ^~~~~/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m:111:26:{111:26-111:31}: warning: expression result unused [-Wunused-value,12]                 [searchYear setString:(@"%@", [yearFilter titleOfSelectedItem])];                                        ^~~~~6 warnings generated.6(21%IDEActivityLogMessage2@24"Expression result unused-343625310#0#146#-1#-23%DVTTextDocumentLocation3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^80#27#80#27#18446744073709551615#0#19"Unused Entity Issue1(3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^80#27#80#32#18446744073709551615#0#-2@24"Expression result unused-343625310#281#146#-1#-3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^90#27#90#27#18446744073709551615#0#19"Unused Entity Issue1(3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^90#27#90#32#18446744073709551615#0#-2@24"Expression result unused-343625310#562#146#-1#-3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^95#26#95#26#18446744073709551615#0#19"Unused Entity Issue1(3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^95#26#95#31#18446744073709551615#0#-2@24"Expression result unused-343625310#840#149#-1#-3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^100#29#100#29#18446744073709551615#0#19"Unused Entity Issue1(3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^100#29#100#34#18446744073709551615#0#-2@24"Expression result unused-343625310#1130#149#-1#-3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^105#26#105#26#18446744073709551615#0#19"Unused Entity Issue1(3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^105#26#105#31#18446744073709551615#0#-2@24"Expression result unused-343625310#1411#149#-1#-3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^110#25#110#25#18446744073709551615#0#19"Unused Entity Issue1(3@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^110#25#110#30#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@86"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m0000000000000000^2371"CompileC build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerController.o BookTrackerController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jdoud/dev/BookTracker/BookTracker-cocoa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-generated-files.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-own-target-headers.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-all-target-headers.hmap -iquote /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-project-headers.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/include -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/DerivedSources/x86_64 -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/DerivedSources -F/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug -include /var/folders/nf/xlwp360s3ddff5vf5jhxnbxm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BookTracker_Prefix-bvyfwokxhogtzndafznbpqfeuzle/BookTracker_Prefix.pch -MMD -MT dependencies -MF /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerController.d -c /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTrackerController.m -o /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTrackerController.o36"9D440CB7-AA69-4619-9FAF-F2201CD8BF9C-
+
+CCompileC build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/main.o /Users/jdoud/dev/BookTracker/BookTracker-cocoa/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s343625310.832036
+e343625310.878976
+r1
+xCompileC
+xbuild/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/main.o
+x/Users/jdoud/dev/BookTracker/BookTracker-cocoa/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/jdoud/dev/BookTracker/BookTracker-cocoa/main.mce19d55e4e7bb441^1c7be25e4e7bb441^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/main.m0000000000000000^2286"CompileC build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jdoud/dev/BookTracker/BookTracker-cocoa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-generated-files.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-own-target-headers.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-all-target-headers.hmap -iquote /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-project-headers.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/include -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/DerivedSources/x86_64 -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/DerivedSources -F/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug -include /var/folders/nf/xlwp360s3ddff5vf5jhxnbxm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BookTracker_Prefix-bvyfwokxhogtzndafznbpqfeuzle/BookTracker_Prefix.pch -MMD -MT dependencies -MF /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/main.d -c /Users/jdoud/dev/BookTracker/BookTracker-cocoa/main.m -o /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/main.o36"F904D46D-D780-4D2F-81D1-7EDAE50232D1-
+
+CCompileXIB /Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib
+s343625303.698785
+e343625304.149227
+r1
+xCompileXIB
+x/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:371: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:715: warning: Image scaling property set (A checkbox image should always appear at the standard size) [9]
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:735: warning: Image scaling property set (A radio button image should always appear at the standard size) [9]
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:733: warning: Image scaling property set (A radio button image should always appear at the standard size) [9]
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:736: warning: Image scaling property set (A radio button image should always appear at the standard size) [9]
+o/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:734: warning: Image scaling property set (A radio button image should always appear at the standard size) [9]
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compiling /Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib77f5b2574e7bb441^a64826584e7bb441^-1186"/* com.apple.ibtool.document.warnings *//Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:371: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:715: warning: Image scaling property set (A checkbox image should always appear at the standard size) [9]/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:735: warning: Image scaling property set (A radio button image should always appear at the standard size) [9]/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:733: warning: Image scaling property set (A radio button image should always appear at the standard size) [9]/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:736: warning: Image scaling property set (A radio button image should always appear at the standard size) [9]/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib:734: warning: Image scaling property set (A radio button image should always appear at the standard size) [9]6(21%IDEActivityLogMessage2@136"Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)58"Content rectangle not entirely on screen with the menu bar343625304#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@89"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib0000000000000000^370#18446744073709551615#370#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@87"Image scaling property set (A checkbox image should always appear at the standard size)26"Image scaling property set343625304#18446744073709551615#0#-1#-3@89"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib0000000000000000^714#18446744073709551615#714#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@91"Image scaling property set (A radio button image should always appear at the standard size)26"Image scaling property set343625304#18446744073709551615#0#-1#-3@89"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib0000000000000000^734#18446744073709551615#734#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@91"Image scaling property set (A radio button image should always appear at the standard size)26"Image scaling property set343625304#18446744073709551615#0#-1#-3@89"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib0000000000000000^732#18446744073709551615#732#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@91"Image scaling property set (A radio button image should always appear at the standard size)26"Image scaling property set343625304#18446744073709551615#0#-1#-3@89"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib0000000000000000^735#18446744073709551615#735#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@91"Image scaling property set (A radio button image should always appear at the standard size)26"Image scaling property set343625304#18446744073709551615#0#-1#-3@89"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib0000000000000000^733#18446744073709551615#733#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#0#-19%DVTDocumentLocation4@89"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib0000000000000000^488"CompileXIB English.lproj/MainMenu.xib    cd /Users/jdoud/dev/BookTracker/BookTracker-cocoa    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources/English.lproj/MainMenu.nib /Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.7.sdk36"F6378EA6-5E05-4824-81FC-C416091C3EC7-
+
+CCopyStringsFile /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s343625303.698393
+e343625303.704062
+r1
+xCopyStringsFile
+x/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings5ad9b2574e7bb441^ad6ab5574e7bb441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/English.lproj/InfoPlist.strings0000000000000000^414"CopyStringsFile build/Debug/BookTracker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/jdoud/dev/BookTracker/BookTracker-cocoa    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"0D048C96-C5D3-4C58-9695-D39FBC499B88-
+
+CCpResource BookTracker.icns build/Debug/BookTracker.app/Contents/Resources/BookTracker.icns
+s343625303.705280
+e343625303.708037
+r1
+xCpResource
+xBookTracker.icns
+xbuild/Debug/BookTracker.app/Contents/Resources/BookTracker.icns
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug/BookTracker.app/Contents/Resources/BookTracker.icns569ab4574e7bb441^20efb5574e7bb441^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources/BookTracker.icns00f44883ddffdf42^416"CpResource BookTracker.icns build/Debug/BookTracker.app/Contents/Resources/BookTracker.icns    cd /Users/jdoud/dev/BookTracker/BookTracker-cocoa    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTracker.icns /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources36"D27628AE-B2AD-4DCC-99B4-B4AFAE214A62-
+
+CCpResource ToDo.rtf build/Debug/BookTracker.app/Contents/Resources/ToDo.rtf
+s343625303.709590
+e343625303.711846
+r1
+xCpResource
+xToDo.rtf
+xbuild/Debug/BookTracker.app/Contents/Resources/ToDo.rtf
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug/BookTracker.app/Contents/Resources/ToDo.rtfd9b5b5574e7bb441^a14db6574e7bb441^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources/ToDo.rtf00f44883ddffdf42^392"CpResource ToDo.rtf build/Debug/BookTracker.app/Contents/Resources/ToDo.rtf    cd /Users/jdoud/dev/BookTracker/BookTracker-cocoa    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jdoud/dev/BookTracker/BookTracker-cocoa/ToDo.rtf /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Resources36"40F2C963-D5A5-428F-A2F8-BE343AB485BF-
+
+CLd /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/MacOS/BookTracker normal x86_64
+s343625311.041652
+e343625311.995147
+r1
+xLd
+x/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/MacOS/BookTracker
+xnormal
+xx86_64
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/MacOS/BookTracker5aba0a5f4e7bb441^44c3fe5f4e7bb441^---0#0#0#--672"Ld build/Debug/BookTracker.app/Contents/MacOS/BookTracker normal x86_64    cd /Users/jdoud/dev/BookTracker/BookTracker-cocoa    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.7.sdk -L/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug -F/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug -filelist /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/Objects-normal/x86_64/BookTracker.LinkFileList -mmacosx-version-min=10.7 -framework Cocoa -o /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/MacOS/BookTracker36"06538113-6916-493E-A315-ABA894E799BE-
+
+CProcessInfoPlistFile /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Info.plist BookTracker-Info.plist
+s343625303.685970
+e343625303.689689
+r1
+xProcessInfoPlistFile
+x/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Info.plist
+xBookTracker-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process BookTracker-Info.plist58aaaf574e7bb441^ad13b3574e7bb441^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTracker-Info.plist0000000000000000^438"ProcessInfoPlistFile build/Debug/BookTracker.app/Contents/Info.plist BookTracker-Info.plist    cd /Users/jdoud/dev/BookTracker/BookTracker-cocoa    builtin-infoPlistUtility BookTracker-Info.plist -genpkginfo /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app/Contents/Info.plist36"AA5AE29D-B57E-4CA6-BFCF-88DE7B670C99-
+
+CProcessPCH /Users/jdoud/Library/Developer/Xcode/DerivedData/BookTracker-aoghficfnefhekdnswxztisncqsr/Index/PrecompiledHeaders/BookTracker_Prefix-gsbruhcrdwaormasgwhkhgnvyuhl_ast/BookTracker_Prefix.pch.pth BookTracker_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/nf/xlwp360s3ddff5vf5jhxnbxm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BookTracker_Prefix-bvyfwokxhogtzndafznbpqfeuzle/BookTracker_Prefix.pch.pth BookTracker_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s343625304.160920
+e343625310.811747
+r1
+xProcessPCH
+x/var/folders/nf/xlwp360s3ddff5vf5jhxnbxm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BookTracker_Prefix-bvyfwokxhogtzndafznbpqfeuzle/BookTracker_Prefix.pch.pth
+xBookTracker_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile BookTracker_Prefix.pch4d4e29584e7bb441^92ecd15e4e7bb441^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTracker_Prefix.pch0000000000000000^2333"ProcessPCH /var/folders/nf/xlwp360s3ddff5vf5jhxnbxm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BookTracker_Prefix-bvyfwokxhogtzndafznbpqfeuzle/BookTracker_Prefix.pch.pth BookTracker_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jdoud/dev/BookTracker/BookTracker-cocoa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-generated-files.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-own-target-headers.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-all-target-headers.hmap -iquote /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/BookTracker-project-headers.hmap -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/include -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/DerivedSources/x86_64 -I/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/BookTracker.build/Debug/BookTracker.build/DerivedSources -F/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug -c /Users/jdoud/dev/BookTracker/BookTracker-cocoa/BookTracker_Prefix.pch -o /var/folders/nf/xlwp360s3ddff5vf5jhxnbxm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BookTracker_Prefix-bvyfwokxhogtzndafznbpqfeuzle/BookTracker_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/nf/xlwp360s3ddff5vf5jhxnbxm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BookTracker_Prefix-bvyfwokxhogtzndafznbpqfeuzle/BookTracker_Prefix.pch.d36"17E2A4EB-1F31-4270-B13F-22442C14449C-
+
+CTouch /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app
+s343625312.004253
+e343625312.015565
+r1
+xTouch
+x/Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Touch /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app852601604e7bb441^50fd03604e7bb441^---0#0#0#--185"Touch build/Debug/BookTracker.app    cd /Users/jdoud/dev/BookTracker/BookTracker-cocoa    /usr/bin/touch -c /Users/jdoud/dev/BookTracker/BookTracker-cocoa/build/Debug/BookTracker.app36"0F2AEEC4-2BEC-4CC6-86CE-C9B959DA225D-
+
