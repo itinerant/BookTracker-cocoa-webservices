@@ -45,6 +45,7 @@
 	NSArray *years;
 	NSArray *currentMonths;
 	NSArray *itemNodes;
+  NSString *url;
 	
 	// sort descriptors
 	NSArray *authors;

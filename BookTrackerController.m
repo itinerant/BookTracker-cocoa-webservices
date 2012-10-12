@@ -25,6 +25,9 @@
 					 [[NSString alloc] initWithFormat:@"%@ %d", [months objectAtIndex:[thisMonth monthOfYear]-1], [thisMonth yearOfCommonEra]],
 					 [[NSString alloc] initWithFormat:@"%@ %d", [months objectAtIndex:[thisMonth monthOfYear]], [thisMonth yearOfCommonEra]], 
 					 nil];
+  //url = [[NSString alloc] initWithString:@"http://doudfamily.dyndns.org/books/"];
+  url = [[NSString alloc] initWithString:@"http://localhost/books/"];
+  
 	return self;
 }
 
@@ -120,7 +123,8 @@
 	}
 	
 	// Load table data
-  NSMutableString *request = [[NSMutableString alloc] initWithFormat:@"http://doudfamily.dyndns.org/books/"];
+  NSMutableString *request = [[NSMutableString alloc] initWithFormat:url];
+  [request appendFormat:@"books/"];
 	[request appendFormat:@"%@/", [self encodeString:searchReader]];
 	[request appendFormat:@"%@/", [self encodeString:searchTitle]];
 	[request appendFormat:@"%@/", [self encodeString:searchAuthor]];
@@ -163,7 +167,8 @@
 		return;
 	}
 	
-	NSMutableString *request = [[NSMutableString alloc] initWithFormat:@"http://doudfamily.dyndns.org/books"];
+	NSMutableString *request = [[NSMutableString alloc] initWithFormat:url];
+  [request appendFormat:@"books"];
 	[request appendFormat:@"?reader=%@", [readerAdd titleOfSelectedItem]];
 	[request appendFormat:@"&title=%@", [self encodeString:[titleAdd stringValue]]];
 	[request appendFormat:@"&author=%@", [self encodeString:[authorAdd stringValue]]];
@@ -224,7 +229,7 @@
 	[progress startAnimation:nil];
 	
 	// Load author data
-  NSXMLDocument *doc = [self callWebService:@"http://doudfamily.dyndns.org/authors"];
+  NSXMLDocument *doc = [self callWebService:[[NSString alloc] initWithFormat:@"%@%@", url, @"authors"]];
 	NSError *error;
 	NSArray *nodes = [doc nodesForXPath:@"authors/author" error:&error];
 	authors = [self arrayFromNodeArray:nodes];
@@ -232,7 +237,7 @@
 	[authorAdd addItemsWithObjectValues:authors];
 	
 	// Load genre data
-  doc = [self callWebService:@"http://doudfamily.dyndns.org/genres"];
+  doc = [self callWebService:[[NSString alloc] initWithFormat:@"%@%@", url, @"genres"]];
 	nodes = [doc nodesForXPath:@"genres/genre" error:&error];
 	genres = [self arrayFromNodeArray:nodes];
 	[genreAdd removeAllItems];
@@ -242,7 +247,7 @@
 	[genreAdd addItemsWithObjectValues:genres];
 	
 	// Load category data
-  doc = [self callWebService:@"http://doudfamily.dyndns.org/categories"];
+  doc = [self callWebService:[[NSString alloc] initWithFormat:@"%@%@", url, @"categories"]];
 	nodes = [doc nodesForXPath:@"categories/category" error:&error];
 	categories = [self arrayFromNodeArray:nodes];
 	[categoryAdd removeAllItems];
@@ -300,7 +305,7 @@
   NSString *postLength = [NSString stringWithFormat:@"%d", [postData length]];  
   
   NSMutableURLRequest *request = [[[NSMutableURLRequest alloc] init] autorelease];  
-  [request setURL:[NSURL URLWithString:@"http://doudfamily.dyndns.org/books"]];  
+  [request setURL:[NSURL URLWithString:url]];  
   [request setHTTPMethod:@"POST"];  
   [request setValue:postLength forHTTPHeaderField:@"Content-Length"];  
   [request setValue:@"application/x-www-form-urlencoded" forHTTPHeaderField:@"Content-Type"];  
